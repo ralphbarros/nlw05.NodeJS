@@ -1,5 +1,5 @@
 ![nlw#05](https://user-images.githubusercontent.com/41132756/116689111-0c323800-a98e-11eb-9e0c-1203213a2a74.png)
-
+<img src="https://img.shields.io/static/v1?label=NLW&message=Rocketseat&color=7159c1&style=for-the-badge&logo=ghost"/>
 ## Utilizando WebSocket com NodeJS
 
 Projeto executado no NLW05/2021
